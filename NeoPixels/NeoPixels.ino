@@ -1,7 +1,7 @@
 /*************************************************************************
 Things we need:
 - Arduino
-- NeoPixel strip (Consult configuration in the library page)
+- NeoPixel strip (consult configuration in the library page)
 
 Depending on the model the configuration 
 may vary, please check the configuration of 
