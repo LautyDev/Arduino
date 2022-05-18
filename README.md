@@ -1,2 +1,2 @@
 # Arduino
-https://lauty.ml
+https://lauty.dev
